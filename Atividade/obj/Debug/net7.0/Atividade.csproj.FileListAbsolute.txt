@@ -1,0 +1,15 @@
+/home/administrador/Prog/senai-backend/Atividade/bin/Debug/net7.0/Atividade
+/home/administrador/Prog/senai-backend/Atividade/bin/Debug/net7.0/Atividade.deps.json
+/home/administrador/Prog/senai-backend/Atividade/bin/Debug/net7.0/Atividade.runtimeconfig.json
+/home/administrador/Prog/senai-backend/Atividade/bin/Debug/net7.0/Atividade.dll
+/home/administrador/Prog/senai-backend/Atividade/bin/Debug/net7.0/Atividade.pdb
+/home/administrador/Prog/senai-backend/Atividade/obj/Debug/net7.0/Atividade.csproj.AssemblyReference.cache
+/home/administrador/Prog/senai-backend/Atividade/obj/Debug/net7.0/Atividade.GeneratedMSBuildEditorConfig.editorconfig
+/home/administrador/Prog/senai-backend/Atividade/obj/Debug/net7.0/Atividade.AssemblyInfoInputs.cache
+/home/administrador/Prog/senai-backend/Atividade/obj/Debug/net7.0/Atividade.AssemblyInfo.cs
+/home/administrador/Prog/senai-backend/Atividade/obj/Debug/net7.0/Atividade.csproj.CoreCompileInputs.cache
+/home/administrador/Prog/senai-backend/Atividade/obj/Debug/net7.0/Atividade.dll
+/home/administrador/Prog/senai-backend/Atividade/obj/Debug/net7.0/refint/Atividade.dll
+/home/administrador/Prog/senai-backend/Atividade/obj/Debug/net7.0/Atividade.pdb
+/home/administrador/Prog/senai-backend/Atividade/obj/Debug/net7.0/Atividade.genruntimeconfig.cache
+/home/administrador/Prog/senai-backend/Atividade/obj/Debug/net7.0/ref/Atividade.dll
